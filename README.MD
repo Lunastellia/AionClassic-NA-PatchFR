@@ -12,7 +12,7 @@ en utilisant ce patch vous consentez à prendre se risque.
 
 > Aller dans votre dossier d'installation (par défaut) : C:\Program Files (x86)\NCSOFT\AION_CLASSIC
 
-![Install](https://github.com/Lunastellia/AionClassic-NA-PatchFR/blob/main/1.png?raw=true)
+![Install](https://github.com/Lunastellia/AionClassic-NA-PatchFR/blob/main/ressources/1.png?raw=true)
 
 > Extraire le fichier préalablement télécharger puis l'extraire dans votre dossier de jeu.
 
