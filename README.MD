@@ -12,18 +12,20 @@ en utilisant ce patch vous consentez à prendre se risque.
 
 > Aller dans votre dossier d'installation (par défaut) : C:\Program Files (x86)\NCSOFT\AION_CLASSIC
 
-![Install](https://github.com/Lunastellia/AionClassic-NA-PatchFR/blob/main/ressources/1.png?raw=true)
+![Install](https://github.com/Lunastellia/AionClassic-NA-PatchFR/blob/main/1.PNG?raw=true)
 
 > Extraire le fichier préalablement télécharger puis l'extraire dans votre dossier de jeu.
 
-![Install](https://github.com/Lunastellia/AionClassic-NA-PatchFR/blob/main/2.png?raw=true)
+![Install](https://github.com/Lunastellia/AionClassic-NA-PatchFR/blob/main/2.PNG?raw=true)
 
 > Lancer le launcher NC SOFT avant de patcher, verifiez que vous avez bien effectuer la dernière mise à jour du jeu.
 
-![Install](https://github.com/Lunastellia/AionClassic-NA-PatchFR/blob/main/3.png?raw=true)
+![Install](https://github.com/Lunastellia/AionClassic-NA-PatchFR/blob/main/3.PNG?raw=true)
 
 > Faites clique droit sur le fichier "FRA" puis executer en tant qu'administrateur.
 
-![Install](https://github.com/Lunastellia/AionClassic-NA-PatchFR/blob/main/4.png?raw=true)
+![Install](https://github.com/Lunastellia/AionClassic-NA-PatchFR/blob/main/4.PNG?raw=true)
+
+![Install](https://github.com/Lunastellia/AionClassic-NA-PatchFR/blob/main/5.PNG?raw=true)
 
 > Lancer le jeu via NC LAUNCHER.
